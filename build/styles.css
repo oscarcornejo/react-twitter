@@ -1,0 +1,181 @@
+body{
+	margin: 0 auto;
+	background-color: #eee;
+}.header__root__2P7EK{
+	display: flex;
+	background-color: #2d84cc;
+	align-items: center;
+	justify-content: space-between;
+	color: #fff;
+	padding: 1em;
+}
+
+.header__logo__1BkL2{
+	margin: 0;
+	color: #fff;
+	font-size: 14pt;
+}.message__root__2dJDb{
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 0.5em;
+	margin: 0.5em;
+	padding: 1em;
+}
+
+.message__text__3-r9D{
+	font-size: 16pt;
+	font-weight: 200;
+}
+
+.message__user__2h4JL{
+	display: flex;
+	align-items: center;
+}
+
+.message__avatar__RE0dY{
+	width: 34px;
+	height: 34px;
+	border-radius: 50%;
+}
+
+.message__displayName__2wIFz{
+	font-weight: bold;
+	padding: 0.5em;
+}
+
+.message__username__3PkM3{
+	color: #aaa;
+}
+
+.message__date__yVZjK{
+	color: #aaa;
+	padding: 0.5em;
+	font-size: 8pt;
+}
+
+.message__buttons__1WoFh{
+	display: flex;
+	justify-content: flex-start;
+	color: #aaa;
+}
+
+.message__icon__17hhE{
+	margin-right: 3em;
+}
+
+.message__num__1c37G{
+	font-size: 10pt;
+	margin-right: 3em;
+	margin-left: 0.25em;
+}
+
+.message__rtGreen__4o1Ak{
+	color: #20883f;
+}
+
+.message__favYellow__2Q5C5{
+	color: #e2c400;
+}
+
+.message-list__root__1H4fD{
+	margin: 0.5em;
+}.input-text__text__3RYWl{
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	width: 90%;
+	height: 5em;
+	padding: 0.75em;
+	margin: 1em 0.5em;
+}
+
+.input-text__buttons__1jrzd{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.input-text__buttons__1jrzd > button{
+	border-radius: 5px;
+	padding: 0.5em 0.75em;
+	margin: 0.25em;
+}
+
+.input-text__close__2LrC3{
+	background-color: #fff;
+	border: 1px solid #ddd;
+}
+
+.input-text__send__1JOoK{
+	background-color: #2d84cc;
+	border: 1px solid #226aa6;
+	color: #fff;
+}.profile-bar__root__2eT0v{
+	display: flex;
+	margin: 1em;
+	align-items: center;
+}
+
+.profile-bar__avatar__1eBKO{
+	border-radius: 50%;
+	width: 32px;
+	height: 32px;
+}
+
+.profile-bar__username__3QMC0{
+	color: #666;
+}
+
+.profile-bar__button__3ntjd{
+	background-color: #2d84cc;
+	color: #fff;
+	border: 1px solid #1f6fb1;
+	border-radius: 5px;
+	margin:  0 1em;
+	padding: 0.5em 0.75em;
+}.profile__root__2k13N{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.profile__avatar__1MOUN{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: 1em auto;
+}
+
+.profile__name__20T2L{
+	font-weight: 700;
+	font-size: 20pt;
+	text-align: center;
+}
+
+.profile__data__2tLpW{
+	list-style-type: none;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.profile__data__2tLpW > li {
+	background-color: #fff;
+	padding: 1em;
+	margin: 0;
+	border: 1px solid #ddd;
+	color: #777;
+}.login__root__9oU6a {
+  margin: 0 1em;
+  text-align: center;
+}
+
+.login__text__vW2Ah {
+  color: #888;
+}
+
+.login__button__1RTf0 {
+  border: #666;
+  border-radius: 5px;
+  padding: 0.5em 1em;
+  background-color: #aaa;
+  color: #eaeaea;
+}

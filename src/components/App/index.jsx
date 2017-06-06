@@ -49,7 +49,7 @@ class App extends Component {
 
   render () {
     return (
-      <HashRouter>
+      <Router>
         <div>
           <Header />
 
@@ -89,7 +89,7 @@ class App extends Component {
             )
           }} />
         </div>
-      </HashRouter>
+      </Router>
     )
   }
 }

@@ -32,8 +32,14 @@ new ExtractTextPlugin({ filename: 'styles.css', allChunks: true})
 devServer: {
   host: '0.0.0.0',
   port: 8080,
-  inline: true
+  inline: true,
+  historyApiFallback: {
+    index: 'index.html',
+    /* Enable these options to debug errors with History API
+     verbose: true,
+     logger: console.log.bind(console),
+     */
+    disableDotRule: true
+  },
 }
-
 }
-
